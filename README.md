@@ -3,6 +3,7 @@
 Screenshots of Error screen
 
 1. Error page on the Web Browser with Tabs.js file
+
 ![aaaaaa](https://user-images.githubusercontent.com/91379555/134774860-635cf41f-91bf-4f9b-b98c-524a508b423f.jpg)
 
 2. Error page on the Android Emulator with Movies.js file
